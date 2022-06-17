@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = "https://dashboards.cobundu.com/meteor/qrs/systemrule/{category}/associatedrules?xrfkey=1234567890123456"
+url = "https://dashboards.cobundu.com/meteor/qrs/app/full?xrfkey=1234567890123456"
 
 payload={}
 headers = {
